@@ -1,0 +1,11 @@
+C:\Users\nsharma\Desktop\PrivateGitRepos\Refactoring\Refactor\Refactor.Tests\obj\Debug\Refactor.Tests.csprojResolveAssemblyReference.cache
+C:\Users\nsharma\Desktop\PrivateGitRepos\Refactoring\Refactor\Refactor.Tests\bin\Debug\Refactor.Tests.dll
+C:\Users\nsharma\Desktop\PrivateGitRepos\Refactoring\Refactor\Refactor.Tests\bin\Debug\Refactor.Tests.pdb
+C:\Users\nsharma\Desktop\PrivateGitRepos\Refactoring\Refactor\Refactor.Tests\bin\Debug\Moq.dll
+C:\Users\nsharma\Desktop\PrivateGitRepos\Refactoring\Refactor\Refactor.Tests\bin\Debug\nunit.framework.dll
+C:\Users\nsharma\Desktop\PrivateGitRepos\Refactoring\Refactor\Refactor.Tests\bin\Debug\Refactor.Lib.dll
+C:\Users\nsharma\Desktop\PrivateGitRepos\Refactoring\Refactor\Refactor.Tests\bin\Debug\Refactor.Lib.pdb
+C:\Users\nsharma\Desktop\PrivateGitRepos\Refactoring\Refactor\Refactor.Tests\bin\Debug\Moq.xml
+C:\Users\nsharma\Desktop\PrivateGitRepos\Refactoring\Refactor\Refactor.Tests\bin\Debug\nunit.framework.xml
+C:\Users\nsharma\Desktop\PrivateGitRepos\Refactoring\Refactor\Refactor.Tests\obj\Debug\Refactor.Tests.dll
+C:\Users\nsharma\Desktop\PrivateGitRepos\Refactoring\Refactor\Refactor.Tests\obj\Debug\Refactor.Tests.pdb

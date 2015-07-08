@@ -1,0 +1,4 @@
+C:\Users\nsharma\Desktop\PrivateGitRepos\Refactoring\Refactor\Refactor.Lib\bin\Debug\Refactor.Lib.dll
+C:\Users\nsharma\Desktop\PrivateGitRepos\Refactoring\Refactor\Refactor.Lib\bin\Debug\Refactor.Lib.pdb
+C:\Users\nsharma\Desktop\PrivateGitRepos\Refactoring\Refactor\Refactor.Lib\obj\Debug\Refactor.Lib.dll
+C:\Users\nsharma\Desktop\PrivateGitRepos\Refactoring\Refactor\Refactor.Lib\obj\Debug\Refactor.Lib.pdb
